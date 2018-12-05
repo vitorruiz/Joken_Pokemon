@@ -1,5 +1,6 @@
 package br.com.vitorruiz.jokenpokemon
 
+import android.content.Intent
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
@@ -76,6 +77,10 @@ class GameActivity : AppCompatActivity() {
         tvWinScore.text = winScore.toString()
         tvDrawScore.text = drawScore.toString()
         tvLoseScore.text = loseScore.toString()
+
+        if (winScore == 2) {
+            startActivity(Intent(this, GameOverActivity::class.java))
+        }
     }
 
     fun randomElement(): String {

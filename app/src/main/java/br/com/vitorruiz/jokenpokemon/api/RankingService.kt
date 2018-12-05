@@ -7,9 +7,9 @@ import retrofit2.http.POST
 
 interface RankingService {
 
-    @GET("pontuacao")
+    @GET("/pontuacao")
     fun getPontuacao(): Call<List<UserRankingVO>>
 
-    @POST("pontuacao")
+    @POST("/pontuacao")
     fun sendPontuacao(@Body userRankingVO: UserRankingVO): Call<Void>
 }
