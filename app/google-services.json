@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "466196745129",
+    "firebase_url": "https://fiap-16mob.firebaseio.com",
+    "project_id": "fiap-16mob",
+    "storage_bucket": "fiap-16mob.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466196745129:android:3ba624596e0cf34d",
+        "android_client_info": {
+          "package_name": "br.com.vitorruiz.calculaflex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466196745129-cuo964nilbsurilifnn1fouasfoakaug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.vitorruiz.calculaflex",
+            "certificate_hash": "beb224284730e1ec2ea6857c4e52af0c0438cd6c"
+          }
+        },
+        {
+          "client_id": "466196745129-g2l0e9g4lo5ek0c6ivjo3o6e0a5t9j2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEmOY6RD6Vuy1YQkeb4mV9sAfw8h0yf7o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466196745129-g2l0e9g4lo5ek0c6ivjo3o6e0a5t9j2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466196745129:android:e03ac26e9b6e7a74",
+        "android_client_info": {
+          "package_name": "br.com.vitorruiz.componentesaplicao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466196745129-bnsvitmmpcb8a2d2vi0nod6i5b1rerkj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.vitorruiz.componentesaplicao",
+            "certificate_hash": "beb224284730e1ec2ea6857c4e52af0c0438cd6c"
+          }
+        },
+        {
+          "client_id": "466196745129-g2l0e9g4lo5ek0c6ivjo3o6e0a5t9j2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEmOY6RD6Vuy1YQkeb4mV9sAfw8h0yf7o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466196745129-g2l0e9g4lo5ek0c6ivjo3o6e0a5t9j2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466196745129:android:d8f6744366678e8c",
+        "android_client_info": {
+          "package_name": "br.com.vitorruiz.jokenpokemon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466196745129-g2l0e9g4lo5ek0c6ivjo3o6e0a5t9j2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEmOY6RD6Vuy1YQkeb4mV9sAfw8h0yf7o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
